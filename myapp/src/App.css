@@ -1,0 +1,14 @@
+.one {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
